@@ -7,6 +7,7 @@ Author: Ridham Garg
 
 
 🍽️ Recipe Maker App — Brute Force vs Optimized (Topological Sort)🧑‍🍳
+
 This project solves the "Find All Recipes You Can Prepare" problem using two approaches:
 
 🔹 Brute Force Method — Easy to understand, iterative
